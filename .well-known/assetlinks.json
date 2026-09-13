@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.netlify.keuanganrumah.twa",
+        "sha256_cert_fingerprints": ["61:FB:42:C7:89:ED:77:DB:F9:F4:7E:5D:10:92:E4:E9:B6:0E:41:E3:3E:11:A9:97:75:C7:63:7C:91:6F:C3:FB"]
+      }
+    }]
